@@ -4,13 +4,11 @@ Based on lightweight EndeavourOS (arch based) and Bodhi linux (ubuntu based). No
 Inspired by motioneyeOS made for raspberry pi. The images are clean installations with minimal programs installed, basically just browser, motioneye service and light desktop environment. Minimum drive size should be 16GB.
 Based on EndeavourOS_Mercury-Neo-2025.03.19 and
 Bodhi-7.0.0-64
-Both are for 64-bit architecture.
+Both are for 64-bit architecture. Extract multipart zip and flash with balena etcher (windows-linux)
 
 Download images here: https://sourceforge.net/projects/motionarch/
 
 Projects used:
-
-Extract multipart zip and flash with balena etcher (windows-linux)
 
 https://github.com/motioneye-project/motioneye
 
