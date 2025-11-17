@@ -1,4 +1,3 @@
-![Alt text for image](https://github.com/misjah/motioneyeOS/blob/main/Screenshot%20from%202025-11-17%2017-17-38.png)
 ![Alt text for image](https://github.com/misjah/motioneyeOS/blob/main/Screenshot%20from%202025-11-17%2017-18-00.png)
 ![Alt text for image](https://github.com/misjah/motioneyeOS/blob/main/Screenshot%20from%202025-11-17%2017-18-14.png)
 ![Alt text for image](https://github.com/misjah/motioneyeOS/blob/main/Screenshot%20from%202025-11-17%2017-19-28.png)
