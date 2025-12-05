@@ -8,7 +8,7 @@ Inspired by motioneyeOS made for raspberry pi. The images are clean installation
 Based on Bodhi-7.0.0-64, Bodhi 5.1.0-legacy and DietPi_x86-64-trixie which can fit on a 4GB flash drive. Legacy version tested on an old Amilo laptop with celeron M 1.7GHz and 768MB RAM, so you can turn your old machine into a surveillence DVR. User is meye and password is mm.
 Extract multipart zip and flash with balena etcher (windows-linux)
 Download images here: https://sourceforge.net/projects/motionarch/
-To access web ui: http://localhost:8765/ or from a remote computer on the same network: http://<ip address of a pc running motioneye>:8765/
+To access web ui: http://localhost:8765/ or from a remote computer on the same network: http://ip address of a pc running motioneye:8765/
 
 Projects used:
 
